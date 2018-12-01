@@ -1,0 +1,13 @@
+Requirements:
+ * ncurses
+ * alsa-lib
+
+Building the binary:
+ Execute a make (should work at least with GNU and BSD make) in this directory.
+
+Installing:
+ Copy the binary where (and if) you want.
+
+Send any comments about naconnect to:
+
+Nedko Arnaudov <nedko@arnaudov.name>
